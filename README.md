@@ -1,2 +1,3 @@
-"Using python winrt "
-"Enable/disable Wi-Fi/Bluetooth radio "
+Using python winrt
+<br>
+Enable/disable Wi-Fi/Bluetooth radio
